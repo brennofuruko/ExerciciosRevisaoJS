@@ -6,4 +6,6 @@
 // 3, 6, 9, 12...
 
 // Escreva sua solução abaixo:
-
+for (let i = 3; i <= 30; i += 3) {
+    console.log(i);
+}

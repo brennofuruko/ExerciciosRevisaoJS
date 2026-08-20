@@ -8,4 +8,11 @@
 // Use o operador lógico &&.
 
 // Escreva sua solução abaixo:
+let usuarioAtivo = true;
+let senhaCorreta = true;
+
+
+if(usuarioAtivo && senhaCorreta) {
+    console.log("Acesso permitido")
+}
 

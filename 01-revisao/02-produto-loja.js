@@ -8,3 +8,11 @@
 
 // Escreva sua solução abaixo:
 
+const produto = "Teclado";
+
+const preco = 120;
+const quantidade = 2;
+const valorTotal = preco * quantidade;
+
+console.log(`Valor: ${valorTotal}`);
+

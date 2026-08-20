@@ -9,4 +9,11 @@
 // Mostre "Entrada permitida" ou "Entrada não permitida".
 
 // Escreva sua solução abaixo:
+let altura = 1.35;
 
+if ( altura > 1.40) {
+    console.log("Entrada permitida")
+}
+else{
+    console.log("Entrada não permitida")
+}

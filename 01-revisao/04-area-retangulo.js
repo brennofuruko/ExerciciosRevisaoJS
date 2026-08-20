@@ -9,3 +9,9 @@
 
 // Escreva sua solução abaixo:
 
+let largura = 8;
+let altura = 5;
+let área = largura * altura;
+
+console.log(`A área do retângulo é ${área}`);
+

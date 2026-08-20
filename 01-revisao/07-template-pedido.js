@@ -10,4 +10,9 @@
 // Carlos comprou 3 unidades de Mouse.
 
 // Escreva sua solução abaixo:
+let cliente = "Carlos";
+let produto = "Mouse";
+let quantidade = 3;
+
+console.log(`${cliente} comprou ${3} unidades de ${produto}`);
 

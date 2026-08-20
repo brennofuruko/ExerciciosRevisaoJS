@@ -3,4 +3,8 @@
 // do 1 até o 10.
 
 // Escreva sua solução abaixo:
+const numero = 7;
 
+for (let i = 1; i <= 10; i++) {
+  console.log(`${numero} x ${i} = ${numero * i}`);
+}

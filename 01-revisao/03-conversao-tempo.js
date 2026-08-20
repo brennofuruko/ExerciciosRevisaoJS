@@ -8,3 +8,7 @@
 
 // Escreva sua solução abaixo:
 
+const horas = 3;
+const minutosTotais = horas * 60;
+// 1 hora = 60 minutos
+console.log(`Existem ${minutosTotais} minutos nessa quantidade de horas`);

@@ -8,5 +8,16 @@
 // de 12 até 17 = "Adolescente"
 // 18 ou mais = "Adulto"
 
-// Escreva sua solução abaixo:
+//Solução:
+let idade = 13;
+
+if (idade <= 11 ) {
+    console.log("Criança")
+}
+else if (idade >= 12 <= 17) {
+    console.log("Adolescente")
+}
+else {
+    console.log("Adulto")
+}
 

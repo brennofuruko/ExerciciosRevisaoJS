@@ -7,4 +7,10 @@
 // Mostre "Loja aberta" ou "Loja fechada".
 
 // Escreva sua solução abaixo:
+let lojaFechada = false;
 
+if (!lojaFechada) {
+    console.log("Loja aberta");
+} else {
+    console.log("Loja fechada");
+}

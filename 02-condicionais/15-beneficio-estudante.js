@@ -10,4 +10,13 @@
 // Mostre "Benefício concedido" ou "Benefício não concedido".
 
 // Escreva sua solução abaixo:
+let estudante = false;
+let idoso = true;
+
+if(estudante || idoso) {
+    console.log("Benefício concedido")
+}
+else {
+    console.log("Benefício não concedido")
+}
 
